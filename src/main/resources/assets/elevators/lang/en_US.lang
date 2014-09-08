@@ -1,0 +1,13 @@
+#Keys
+keys.elevators.category=Elevators
+keys.elevators.charge=Charge
+keys.elevators.release=Release
+
+#Creative Tab
+itemGroup.elevators=Elevators
+
+#Items
+item.elevators:mapleLeaf.name=The Best Mapleleaf
+
+#Blocks
+tile.elevators:flag.name=Steagul Romaniei

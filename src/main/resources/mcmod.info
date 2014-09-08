@@ -1,0 +1,18 @@
+[
+{
+  "modid": "elevators",
+  "name": "Elevators",
+  "description": "Ads a basic elevator",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+  "Robert"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
